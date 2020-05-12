@@ -12,7 +12,7 @@ Template changed to include navigation bar and some extra sections and data
 
 ## 📷 Preview
 
-![Preview](./preview.png)
+<!-- ![Preview](./preview.png)
 
 ## 🚀 Quick start
 
@@ -212,4 +212,4 @@ module.exports = {
     }
   ],
 }
-```
+``` -->
