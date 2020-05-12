@@ -3,9 +3,9 @@ module.exports = {
   siteDescription: `This is my resume`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Chia Pak Mun',
-  twitterUsername: 'ajimenezdev',
-  githubUsername: 'ajimenezdev',
-  authorAvatar: '/images/chia_logo1.png',
+  twitterUsername: 'chia',
+  githubUsername: 'chia',
+  authorAvatar: '/images/chia.png',
   authorDescription: `I'm a Software engineer and full-stack developer, currently focused in React development integrated with Graphql.<br/><br/>
   I currently work remotely as a frontend developer and mainly working with <strong>React Hooks with Typescript, NodeJS and Graphql.</strong>`,
   skills: [
