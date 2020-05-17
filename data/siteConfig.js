@@ -230,15 +230,15 @@ module.exports = {
     //   icon: 'FaTv',
     // },
   ],
-  siteUrl: 'https://alvarojimenezmartin.com',
+  siteUrl: 'https://chia-resume.netlify.app/',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/background.jpg',
-  googleAnalyticsId: 'UA-4492763-3',
+  // googleAnalyticsId: 'UA-4492763-3',
   background_color: '#ffffff',
   theme_color: '#25303B',
   display: 'minimal-ui',
   icon: 'src/favicon.jpg',
-  // resume: '/resume_alvaro_jimenez.pdf',
+  resume: '/Chia-Resume.pdf',
   headerLinks: [
     // {
     //   label: 'Alvaro Jimenez Martin',
